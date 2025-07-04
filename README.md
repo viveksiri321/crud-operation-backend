@@ -1,2 +1,2 @@
-npm i expresss
+npm i expresss,npm init - y,
 
